@@ -1,0 +1,7 @@
+C:\Users\vasil\Source\Repos\ProjectPartA\bin\Debug\ProjectPartA.exe.config
+C:\Users\vasil\Source\Repos\ProjectPartA\bin\Debug\ProjectPartA.exe
+C:\Users\vasil\Source\Repos\ProjectPartA\bin\Debug\ProjectPartA.pdb
+C:\Users\vasil\Source\Repos\ProjectPartA\obj\Debug\ProjectPartA.csprojAssemblyReference.cache
+C:\Users\vasil\Source\Repos\ProjectPartA\obj\Debug\ProjectPartA.csproj.CoreCompileInputs.cache
+C:\Users\vasil\Source\Repos\ProjectPartA\obj\Debug\ProjectPartA.exe
+C:\Users\vasil\Source\Repos\ProjectPartA\obj\Debug\ProjectPartA.pdb
